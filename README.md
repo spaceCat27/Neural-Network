@@ -1,1 +1,2 @@
-Neural network built with numpy module
+# Neural Network
+Neural network built from scratch using numpy module.
